@@ -1,8 +1,8 @@
 {
   "name": "ffc-code-refs-webpack-plugin",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "description": "webpack plugin for ffc code reference tool",
-  "main": "code-refs-plugin.js",
+  "main": "src/code-refs-plugin.js",
   "repository": {
     "type": "git",
     "url": "git+https://github.com/feature-flags-co/ffc-code-refs-webpack-plugin.git"
