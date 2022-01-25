@@ -1,0 +1,26 @@
+{
+  "name": "ffc-code-refs-webpack-plugin",
+  "version": "0.0.1",
+  "description": "webpack plugin for ffc code reference tool",
+  "main": "code-refs-plugin.js",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/feature-flags-co/ffc-code-refs-webpack-plugin.git"
+  },
+  "keywords": [
+    "feature-flags.co",
+    "敏捷开关",
+    "feature flags",
+    "Code reference",
+    "webpack"
+  ],
+  "author": "北京心跳率科技有限公司",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/feature-flags-co/ffc-code-refs-webpack-plugin/issues"
+  },
+  "homepage": "https://github.com/feature-flags-co/ffc-code-refs-webpack-plugin#readme",
+  "dependencies": {
+    "ffc-code-refs-core": "^1.0.21"
+  }
+}
