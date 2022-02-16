@@ -1,6 +1,6 @@
 {
   "name": "ffc-code-refs-webpack-plugin",
-  "version": "0.0.3",
+  "version": "0.0.4",
   "description": "webpack plugin for ffc code reference tool",
   "main": "src/code-refs-plugin.js",
   "repository": {
@@ -21,6 +21,6 @@
   },
   "homepage": "https://github.com/feature-flags-co/ffc-code-refs-webpack-plugin#readme",
   "dependencies": {
-    "ffc-code-refs-core": "^1.0.22"
+    "ffc-code-refs-core": "^1.0.25"
   }
 }
